@@ -1,0 +1,1 @@
+import{a6 as e}from"./preset_utils-DkHhB_Bm.chunk.js";import{b9 as r,A as o}from"./detailed_results-C-DDAdQD.chunk.js";const a=()=>e({fieldName:"armor",values:[{value:r.NoArmor,tooltip:"No Inner Fire"},{actionId:o.fromSpellId(48168),value:r.InnerFire}]});export{a as A};
